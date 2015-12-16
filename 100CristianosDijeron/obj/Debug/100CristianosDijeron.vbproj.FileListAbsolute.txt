@@ -1,0 +1,11 @@
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\bin\Debug\100CristianosDijeron.exe
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\bin\Debug\100CristianosDijeron.pdb
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\bin\Debug\100CristianosDijeron.xml
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\obj\Debug\_100CristianosDijeron.Form1.resources
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\obj\Debug\_100CristianosDijeron.Resources.resources
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\obj\Debug\100CristianosDijeron.vbproj.GenerateResource.Cache
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\obj\Debug\100CristianosDijeron.exe
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\obj\Debug\100CristianosDijeron.xml
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\obj\Debug\100CristianosDijeron.pdb
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\obj\Debug\_100CristianosDijeron.Form2.resources
+D:\Proyectos\100CristianosDijeron\100CristianosDijeron\bin\Debug\100CristianosDijeron.exe.config
