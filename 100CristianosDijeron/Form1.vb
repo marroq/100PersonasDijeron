@@ -156,6 +156,7 @@
     End Sub
 
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+        Timer1.Enabled = false;
         second = second + 1
         If (second = 2) Then
             Form2.er1.Visible = False
@@ -193,5 +194,6 @@
 
         ErrorA = False
         ErrorB = False
+        Timer1.Enabled = true;
     End Sub
 End Class
